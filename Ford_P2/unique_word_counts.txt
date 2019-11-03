@@ -1,0 +1,10 @@
+hi 2
+how 3
+what 1
+yup 1
+oi 1
+where 2
+hello 2
+hey 2
+when 1
+who 1
